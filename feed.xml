@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>砼道中人</title>
+    <link href="https://zjlovezxy.github.io/zj-pages/feed.xml" rel="self" />
+    <link href="https://zjlovezxy.github.io/zj-pages" />
+    <updated>2025-06-14T23:14:19+08:00</updated>
+    <author>
+        <name>zj</name>
+    </author>
+    <id>https://zjlovezxy.github.io/zj-pages</id>
+
+    <entry>
+        <title>hello word</title>
+        <author>
+            <name>zj</name>
+        </author>
+        <link href="https://zjlovezxy.github.io/zj-pages/hello-word-2.html"/>
+        <id>https://zjlovezxy.github.io/zj-pages/hello-word-2.html</id>
+
+        <updated>2025-06-14T23:14:19+08:00</updated>
+            <summary>
+                <![CDATA[
+                    hello word #3 sda
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hello word
+#3 sda </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
